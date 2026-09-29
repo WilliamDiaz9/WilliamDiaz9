@@ -47,14 +47,14 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WilliamDiaz9&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDiaz9&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamDiaz9&theme=tokyonight" width="100%"/>
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamDiaz9&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilliamDiaz9&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilliamDiaz9&theme=tokyonight&hide_border=true&locale=es" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamDiaz9&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
